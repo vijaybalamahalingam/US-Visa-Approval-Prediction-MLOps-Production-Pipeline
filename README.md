@@ -67,6 +67,7 @@ To run the web application:
 
 ```bash
 python app.py
+```
 
 ## Features
 - **Data Ingestion:** Fetches and stores visa application data.
