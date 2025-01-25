@@ -40,19 +40,32 @@ The repository is organized as follows:
 ## Installation
 
 To set up the project locally, follow these steps:
-1. Clone the repository: 
-git clone https://github.com/vijaybalamahalingam US-Visa-Approval-Prediction-MLOps-Production-Pipeline.git
-cd US-Visa-Approval-Prediction-MLOps-Production-Pipeline
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/vijaybalamahalingam/US-Visa-Approval-Prediction-MLOps-Production-Pipeline.git
+    cd US-Visa-Approval-Prediction-MLOps-Production-Pipeline
+    ```
+
 2. Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
 3. Install the required dependencies:
-pip install -r requirements.txt
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
 To run the web application:
 
+```bash
 python app.py
 
 ## Features
